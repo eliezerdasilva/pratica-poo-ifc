@@ -1,0 +1,6 @@
+Faça uma explicação das diferenças de modificadores de acesso entre as linguagens escolhida e Java.
+
+Em PHP o modificador de acesso padrão é public diferente no java, e também não tem como encapsulamento em classe,
+apenas atributos e métodos em PHP, mas a funcionalidade do private, public e protected são semelhantes. 
+
+Complementos no código Java. 
